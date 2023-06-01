@@ -1,3 +1,3 @@
 # dashmote-project
 
-This is a case programming project for the interview of Dashmote.
+This is a case programming project for the interview of Dashmote front-end internship.
